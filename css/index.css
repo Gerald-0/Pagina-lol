@@ -1,0 +1,43 @@
+body{
+    background-image: url(../img/ori-e-a-vontade-dos-wisps-floresta-magica-papel-de-parede-1152x768_36.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.campo{
+    margin: -30px 400px;
+    width: 500px;
+    height: 80px;
+    background: rgba(1, 0, 16, 0.8);
+    border: 1px solid #8F782A;
+    color: #fff;
+}
+.logo .botao{
+    margin-left: 500px;
+    width: 300px;
+    color: #fff;
+    background-image: linear-gradient(to right, #570F81,#B821C1,#B721C0,#570F81);
+}
+.logo .botao:hover{
+    border: 4px solid #3891e4;
+    border: 0px 0px 35px #fffaff,  0px 0px 15px #fff inset ;
+    text-shadow: 0px 0px 15px #0ca8cf,  0px 0px 3px #fff;
+}
+.lol{
+    margin-left:  550px;
+}
+.session{
+    position: relative;
+    width: 1278px;
+    height: 1500px;
+    background: rgba(255, 255, 255, 0.14);
+    backdrop-filter: blur(5px);
+}
+.faixa{
+    background-color: #141416;
+}
+.faixa ul  {
+   display: flex;
+   gap: 10px;
+   justify-content: center;
+}
