@@ -4,7 +4,7 @@ League of Legends: Wild Rift é um jogo eletrônico do gênero MOBA desenvolvido
 pela Riot Games para Android, iOS, e consoles ainda desconhecidos. O jogo é uma versão adaptada de
 seu equivalente para PC, League of Legends.
 # Parte visual e Code feitos por Gerald Santos 🦄.
-lingagens usadas - 
+ferramentas utilizadas  - 
 # JS, BOOTSTRAP, CSS.
 
 
