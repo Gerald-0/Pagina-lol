@@ -4,6 +4,16 @@ body{
     background-size: cover;
     
 }
+@keyframes pisca{
+    0%{ opacity: 0.2;}
+    50%{opacity: 1;}
+    100%{ opacity: 0.2;}
+}
+.quadro{
+    animation-name: pisca;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
 .campo{
     margin: -30px 400px;
     width: 500px;
